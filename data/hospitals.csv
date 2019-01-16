@@ -1,0 +1,162 @@
+Postcode,hospital,city,ODN number,region,network,neonatal_current,neonatal_level,neonatal_surg,neonatal_level_1,neonatal_level_2,neonatal_level_3,neonatal_level_4, unique city name,Fixed
+B15 2TH,Queen Elizabeth Hospital Edgbaston; Birmingham,Birmingham,12,12,1,1,NICU,0,1,1,1,1,Birmingham - Edgbaston,
+B18 7QH,City Hospital;Birmingham,Birmingham,12,12,1,1,LNU,0,0,1,1,1,Birmingham - City,-1
+B4 6NH,Birminghams Childrens Hospital,Birmingham,12,12,1,1,SURGERY,1,1,1,1,1,Birmingham - Childrens,
+B75 7RR,Good Hope Hospital;Sutton Coldfield,Sutton Coldfield,12,12,1,1,SCU,0,0,0,1,1,Sutton Coldfield,-1
+B9 5SS,Birmingham Heartlands Hospital; Bordesley Green East; Birmingham,Birmingham,12,12,1,1,NICU,0,1,1,1,1,Birmingham - Heartlands ,
+B98 7UB,Alexandra Hospital;Redditch,Redditch,12,12,1,1,SCU,0,0,0,1,1,Redditch,-1
+BA1 3NG,Royal United Hospital Bath,Bath,11,11,1,1,LNU,0,0,1,1,1,Bath,-1
+BA21 4AT,Yeovil District Hospital,Yeovil,11,11,1,1,SCU,0,0,0,1,1,Yeovil,-1
+BB10 2PQ,Lancashire Women and Newborn Centre;Burnley,Burnley,7,7,1,1,NICU,0,1,1,1,1,Burnley,
+BD20 6TD,Airedale General Hospital;Keighley,Keighley,16,16,1,1,LNU,0,0,1,1,1,Keighley,-1
+BD9 6RJ,Bradford Royal Infirmary; Duckworth Lane; Bradford,Bradford,16,16,1,1,NICU,0,1,1,1,1,Bradford,
+BH15 2JB,Poole Hospital; Longfleet Road; Poole,Poole,14,14,1,1,LNU,0,0,1,1,1,Poole,-1
+BL4 0JR,Royal Bolton Hospital;Bolton,Bolton,6,6,1,1,NICU,0,1,1,1,1,Bolton,
+BN11 2DH,Worthing Hospital; Lyndhurst Road; Worthing,Worthing,14,14,1,1,SCU,0,0,0,1,1,Worthing,-1
+BN2 5BE,Royal Sussex County Hospital; Eastern Road; Brighton,Brighton,9,9,1,1,SURGERY,1,1,1,1,1,Brighton,
+BR6 8ND,Princess Royal University Hospital; Orpington,Orpington,10,10,1,1,SCU,0,0,0,1,1,Orpington,-1
+BS10 5NB,North Bristol Hospital NHS Trust; Southmead Hospital; Southmead Way; Bristol,Bristol,11,11,1,1,NICU,0,1,1,1,1,Bristol - North,
+BS2 8HW,Bristol Royal Infirmary,Bristol,11,11,1,1,SURGERY,1,1,1,1,1,Bristol - Royal ,
+CA2 7HY,Cumberland Infirmary; Newtown Road; Carlisle,Carlisle,8,8,1,1,SCU,0,0,0,1,1,Carlisle,-1
+CA28 8JG,West Cumberland Hospital; Homewood Road; Whitehaven,Whitehaven,8,8,1,1,SCU,0,0,0,1,1,Whitehaven,-1
+CB2 0QQ,Addenbrooke's Hospital,Cambridge,2,2,1,1,SURGERY,1,1,1,1,1,Cambridge,
+CH2 1UL,Countess of Chester Hospital; Liverpool Road; Chester,Chester,5,5,1,1,LNU,0,0,1,1,1,Chester,-1
+CH49 5PE,Arrowe Park Hospital; Upton; Wirral,Wirral,5,5,1,1,NICU,0,1,1,1,1,Wirral,
+CM1 7ET,Broomfield Hospital,Chelmsford,2,2,1,1,LNU,0,0,1,1,1,Chelmsford,-1
+CM20 1QX,Princess Alexandra Hospital;Harlow,Harlow,2,2,1,1,LNU,0,0,1,1,1,Harlow,-1
+CO4 5JL,Colchester General Hospital; Turner Road; Colchester,Colchester,2,2,1,1,LNU,0,0,1,1,1,Colchester,-1
+CR7 7YE,Croydon University Hospital;Thorton Heath,London - S,10,10,1,1,LNU,0,0,1,1,1,London - Croydon,-1
+CT9 4AN,Queen Elizabeth the Queen Mother Hospital; St Peter's Road; Margate,Margate,9,9,1,1,SCU,0,0,0,1,1,Margate,-1
+CV10 7DJ,George Eliot Hospital,Nuneaton,1,1,1,1,SCU,0,0,0,1,1,Nuneaton,-1
+CV2 2DX,University Hospital Coventry; Clifford Bridge Road; Coventry,Coventry,1,1,1,1,NICU,0,1,1,1,1,Coventry,
+CV34 5BW,Warwick Hospital; Lakin Road;  Warwick,Warwick,1,1,1,1,SCU,0,0,0,1,1,Warwick,-1
+CW1 4QJ,Leighton Hospital,Crewe,5,5,1,1,LNU,0,0,1,1,1,Crewe,-1
+DA2 8DA,Darent Valley Hospital; Darent Wood Road; Dartford,Dartford,9,9,1,1,SCU,0,0,0,1,1,Dartford,-1
+DE13 0RB,Queens Hospital Burton upon Trent,Burton upon Trent,1,1,1,1,LNU,0,0,1,1,1,Burton upon Trent,-1
+DE22 3NE,Royal Derby Hospital,Derby,15,15,1,1,LNU,0,0,1,1,1,Derby,-1
+DH1 5TW,University Hospital of North Durham,Durham,8,8,1,1,SCU,0,0,0,1,1,Durham,-1
+DL3 6HX,Darlington Memorial Hospital;Darlington,Darlington,8,8,1,1,SCU,0,0,0,1,1,Darlington,-1
+DN15 7BH,Scunthorpe General Hospital,Scunthorpe,16,16,1,1,LNU,0,0,1,1,1,Scunthorpe,-1
+DN2 5LT,Doncaster Royal Infirmary; Throne Road; Doncaster,Doncaster,16,16,1,1,LNU,0,0,1,1,1,Doncaster,-1
+DN33 2BA,Diana Princess of Wales Hospital;Grimsby,Grimsby,16,16,1,1,LNU,0,0,1,1,1,Grimsby,-1
+DT1 2JY,Dorset County Hospital; Williams Avneue; Dorchester,Dorchester,14,14,1,1,LNU,0,0,1,1,1,Dorchester,-1
+DY1 2HQ,Russells Hall Hospital,Dudley,13,13,1,1,LNU,0,0,1,1,1,Dudley,-1
+E1 1BB,The Royal London Hospital,London - E,3,3,1,1,SURGERY,1,1,1,1,1,London - Royal,
+E11 1NR,Whipps Cross University Hospital;Leytonstone,London - NE,3,3,1,1,LNU,0,0,1,1,1,London - Leystonstone,-1
+E13 8SL,Newham General Hospital;Plaistow,London - E,3,3,1,1,LNU,0,0,1,1,1,London - Newham ,-1
+E9 6SR,Homerton Hospital;London,London - E,3,3,1,1,NICU,0,1,1,1,1,London - Homerton,
+EN5 3DJ,Barnet Hospital;Barnet,London - N,3,3,1,1,LNU,0,0,1,1,1,London - Barnet,-1
+EX2 5DW,Royal Devon and Exeter Hospital,Exeter,11,11,1,1,LNU,0,0,1,1,1,Exeter,-1
+EX31 4JB,North Devon District Hospital; Raleigh Park; Barnstaple,Barnstaple,11,11,1,1,SCU,0,0,0,1,1,Barnstaple,-1
+FY3 8NR,Blackpool Victoria Hospital; Whiney Heys Road; Blackpool,Blackpool,7,7,1,1,LNU,0,0,1,1,1,Blackpool,-1
+GL1 3NN,Gloucestershire Royal Hospital,Gloucester,11,11,1,1,LNU,0,0,1,1,1,Gloucester,-1
+GU16 7UJ,Frimley Park Hospital,Slough/Camberley,9,9,1,1,LNU,0,0,1,1,1,Camberley,-1
+GU2 7XX,Royal Surrey County Hospital; Egerton Road; Guildford,Guildford,9,9,1,1,SCU,0,0,0,1,1,Guildford,-1
+HA1 3UJ,Northwick Park Hospital; Watford Road; Harrow,London - NW,4,4,1,1,LNU,0,0,1,1,1,London - Northwick Park,-1
+HG2 7SX,Harrogate District Hospital,Harrogate,16,16,1,1,SCU,0,0,0,1,1,Harrogate,-1
+HP21 8AL,Stoke Mandeville Hospital;Aylesbury,Aylesbury,14,14,1,1,LNU,0,0,1,1,1,Aylesbury,-1
+HR1 2ER,Hereford County Hospital,Hereford,12,12,1,1,SCU,0,0,0,1,1,Hereford,-1
+HU3 2JZ,Hull Royal Infirmary; Anlaby Road; Hull,Hull,16,16,1,1,NICU,0,1,1,1,1,Hull,
+HX3 0PW,Calderdale Royal Hospital; Salterhebble; Halifax,Halifax,16,16,1,1,LNU,0,0,1,1,1,Halifax,-1
+IP33 2QZ,West Suffolk Hospital,Bury Saint Edmunds,2,2,1,1,SCU,0,0,0,1,1,Bury Saint Edmunds,-1
+IP4 5PD,Ipswich Hospital,Ipswich,2,2,1,1,LNU,0,0,1,1,1,Ipswich,-1
+KT16 0PZ,St Peter's Hospital; Guildford Road; Chertsey,London - W,9,9,1,1,NICU,0,1,1,1,1,London - St Peter,
+KT18 7EG,Epsom Hospital; Dorking; Epsom,London - SW,10,10,1,1,SCU,0,0,0,1,1,London - Epsom,-1
+KT2 7QB,Kingston Hospital,Kingston upon Thames,10,10,1,1,LNU,0,0,1,1,1,Kingston upon Thames,-1
+L35 5DR,Whiston Hospital; Warrington Road; Rainhill; Prescot,Prescot,5,5,1,1,LNU,0,0,1,1,1,Prescot,-1
+L39 2JW,Ormskirk District General Hospital;Ormskirk,Ormskirk,5,5,1,1,LNU,0,0,1,1,1,Ormskirk,-1
+L8 7SS,Liverpool Women's Hospital;Liverpool,Liverpool,5,5,1,1,NICU,0,1,1,1,1,Liverpool,
+LA1 4RP,Royal Lancaster Infirmary,Lancaster,7,7,1,1,LNU,0,0,1,1,1,Lancaster,-1
+LA14 4LF,Furness General Hospital,Barrow-in-Furness,7,7,1,1,SCU,0,0,0,1,1,Barrow-in-Furness,-1
+LE1 5WW,Leicester Royal Infirmary,Leicester,1,1,1,1,SURGERY,1,1,1,1,1,Leicester - Royal,
+LE5 4PW,Leicester General Hospital;Leicester,Leicester,1,1,1,1,SCU,0,0,0,1,1,Leicester - General,-1
+LN2 5QY,Lincoln County Hospital; Lincoln,Lincoln,15,15,1,1,LNU,0,0,1,1,1,Lincoln,-1
+LS1 3EX,Leeds General Infirmary; Great George Street; Leeds,Leeds,16,16,1,1,SURGERY,1,1,1,1,1,Leeds,
+LU4 0DZ,Luton and Dunstable Hospital; Lewsey Road; Luton,Luton,2,2,1,1,NICU,0,1,1,1,1,Luton,
+M13 0JH,St Mary's Hospital Manchester;Manchester,Manchester,6,6,1,1,SURGERY,1,1,1,1,1,Manchester - St Mary,
+M23 9LT,University Hospital of South Manchester;Wythenshawe,Manchester,6,6,1,1,LNU,0,0,1,1,1,Manchester - Univ,-1
+M8 5RL,North Manchester General Hospital;Manchester,Manchester,6,6,1,1,LNU,0,0,1,1,1,Manchester - North ,-1
+ME7 5NY,Medway Maritime Hospital,Gillingham,9,9,1,1,NICU,0,1,1,1,1,Gillingham,
+MK42 9DJ,Bedford Hospital,Bedford,2,2,1,1,SCU,0,0,0,1,1,Bedford,-1
+MK6 5LD,Milton Keynes General Hospital,Milton Keynes,14,14,1,1,LNU,0,0,1,1,1,Milton Keynes,-1
+N18 1QX,North Middlesex University Hospital;Edmonton,London - N,3,3,1,1,LNU,0,0,1,1,1,London - Edmonton,-1
+N19 5NF,Whittington Hospital;London,London - N,3,3,1,1,LNU,0,0,1,1,1,London - Whittington ,-1
+NE1 4LP,Royal Victoria Infirmary,Newcastle upon Tyne,8,8,1,1,SURGERY,1,1,1,1,1,Newcastle upon Tyne,
+NE34 0PL,South Tyneside District Hospital,South Shields,8,8,1,1,SCU,0,0,0,1,1,South Shields,-1
+NE63 9FL,North Tyneside General Hospital (previously Wansbeck);Ashington,Ashington,8,8,1,1,SCU,0,0,0,1,1,Ashington,-1
+NE9 6SX,Queen Elizabeth Hospital; Queen Elizabeth Avenue;  Gateshead,Gateshead,8,8,1,1,SCU,0,0,0,1,1,Gateshead,-1
+NG17 4JL,Kings Mill Hospital,Sutton-in-Ashfield,15,15,1,1,LNU,0,0,1,1,1,Sutton-in-Ashfield,-1
+NG5 1PB,Nottingham City Hospital; Nottingham,Nottingham,15,15,1,1,NICU,0,1,1,1,1,Nottingham - City,
+NG7 2UH,Nottingham University Hospital (QMC);Nottingham,Nottingham,15,15,1,1,SURGERY,1,1,1,1,1,Nottingham - Univ,
+NN1 5BD,Northampton General Hospital Cliftonville,Northampton,1,1,1,1,LNU,0,0,1,1,1,Northampton,-1
+NN16 8UZ,Kettering General Hospital;Kettering,Kettering,1,1,1,1,LNU,0,0,1,1,1,Kettering,-1
+NR31 6LA,James Paget Hospitals; Lowestoft Road; Gorleston-on-Sea,Great Yarmouth,2,2,1,1,SCU,0,0,0,1,1,Great Yarmouth,-1
+NR4 7UY,Norfolk and Norwich University Hospital,Norwich,2,2,1,1,SURGERY,1,1,1,1,1,Norwich,
+NW1 2BU,University College London Hospital; Euston Road; London,London - NW,3,3,1,1,NICU,0,1,1,1,1,London - UCL ,
+NW3 2QG,The Royal Free Hospital;London,London - NW,3,3,1,1,SCU,0,0,0,1,1,London - Royal Free,-1
+OL1 2JH,Royal Oldham Hospital;Oldham,Oldham,6,6,1,1,NICU,0,1,1,1,1,Oldham,
+OL6 9RW,Tameside General Hospital;Ashton under Lyne,Ashton under Lyne,6,6,1,1,LNU,0,0,1,1,1,Ashton under Lyne,-1
+OX16 9AL,Horton General Hospital; Oxford Road; Banbury,Banbury,14,14,1,1,SCU,0,0,0,1,1,Banbury,-1
+OX3 9DU,John Radcliffe Hospital; Headley Way; Oxford,Oxford,14,14,1,1,NICU,0,1,1,1,1,Oxford,
+PE21 9QS,Pilgrim Hospital; Boston,Boston,15,15,1,1,SCU,0,0,0,1,1,Boston,-1
+PE29 6NT,Hinchingbrooke Hospital;Huntingdon,Huntingdon,2,2,1,1,SCU,0,0,0,1,1,Huntingdon,-1
+PE3 9GZ,Peterborough City Hospital,Peterborough,2,2,1,1,LNU,0,0,1,1,1,Peterborough,-1
+PE30 4ET,Queen Elizabeth Hospital Kings Lynn,Kings Lynn,2,2,1,1,LNU,0,0,1,1,1,Kings Lynn,-1
+PL6 8DH,Derriford Hospital,Plymouth,11,11,1,1,NICU,0,1,1,1,1,Plymouth,
+PO19 6SE,St Richards Hospital,Chichester,14,14,1,1,LNU,0,0,1,1,1,Chichester,-1
+PO30 5TG,St Mary's Hospital; Parkhurst Road;  Newport,"Newport, IoW",14,14,1,1,LNU,0,0,1,1,1,"Newport, IoW",-1
+PO6 3LY,Queen Alexandra Hospital Portsmouth,Portsmouth,14,14,1,1,NICU,0,1,1,1,1,Portsmouth,
+PR2 9HT,Royal Preston Hospital,Preston,7,7,1,1,NICU,0,1,1,1,1,Preston,
+RG1 5AN,Royal Berkshire Hospital,Reading,14,14,1,1,LNU,0,0,1,1,1,Reading,-1
+RG24 9NA,Basingstoke & North Hampshire Hospital;Basingstoke,Basingstoke,14,14,1,1,LNU,0,0,1,1,1,Basingstoke,-1
+RH1 5RH,East Surrey Hospital; Canada Avenue; Redhill,Redhill,9,9,1,1,LNU,0,0,1,1,1,Redhill,-1
+RH16 4EX,Princess Royal Hospital; Lewes Road; Haywards Heath,Haywards Heath,9,9,1,1,SCU,0,0,0,1,1,Haywards Heath,-1
+RM7 0AG,Queen's Hospital; Rom Valley Way; Romford,Romford,3,3,1,1,LNU,0,0,1,1,1,Romford,-1
+S10 2JF,Royal Hallamshire Hospital; Glossop Road; Sheffield,Sheffield,16,16,1,1,SURGERY,1,1,1,1,1,Sheffield,
+S44 5BL,Chesterfield Royal Hospital; Chesterfield Road; Calow; Chesterfield,Chesterfield,16,16,1,1,LNU,0,0,1,1,1,Chesterfield,-1
+S60 2UD,Rotherham General Hospital; Moorgate Road; Rotherham,Rotherham,16,16,1,1,LNU,0,0,1,1,1,Rotherham,-1
+S75 2EP,Barnsley Hospital; Gawber Road; Barnsley,Barnsley,16,16,1,1,LNU,0,0,1,1,1,Barnsley,-1
+S81 0BD,Bassetlaw District General Hospital;Worksop,Worksop,16,16,1,1,SCU,0,0,0,1,1,Worksop,-1
+SE1 7EH,Guy's & St Thomas' Hospital;London,London - SE,10,10,1,1,SURGERY,1,1,1,1,1,London - Guy St Thomas,
+SE13 6LH,University Hospital Lewisham;Lewisham,London - NE,10,10,1,1,LNU,0,0,1,1,1,London - Lewisham,-1
+SE18 4QH,Queen Elizabeth Hospital Woolwich - see notes;Woolwich,London - E,10,10,1,1,LNU,0,0,1,1,1,London - Queen E,-1
+SE5 9RW,King's College Hospital HASU; Bessemer Road; London,London - SE,10,10,1,1,SURGERY,1,1,1,1,1,London - King's,
+SG1 4AB,Lister Hospital,Stevenage,2,2,1,1,LNU,0,0,1,1,1,Stevenage,-1
+SK10 3BL,Macclesfield District General Hospital;Macclesfield,Macclesfield,5,5,1,1,LNU,0,0,1,1,1,Macclesfield,-1
+SK2 7JE,Stepping Hill Hospital; Poplar Grove; Hazel Grove; Stockport,Stockport,6,6,1,1,LNU,0,0,1,1,1,Stockport,-1
+SL2 4HL,Wexham Park Hospital,Slough/Camberley,14,14,1,1,LNU,0,0,1,1,1,Slough,-1
+SM5 1AA,St Helier Hospital;Carshalton,London - S,10,10,1,1,LNU,0,0,1,1,1,London - St Helier,-1
+SN3 6BB,Great Western Hospital; Marlborough; Swindon,Swindon,11,11,1,1,LNU,0,0,1,1,1,Swindon,-1
+SO16 6YD,Southampton General Hospital; Tremona road; Southampton,Southampton,14,14,1,1,SURGERY,1,1,1,1,1,Southampton,
+SO22 5DG,Royal Hampshire County Hospital; Romsey Road; Winchester,Winchester,14,14,1,1,LNU,0,0,1,1,1,Winchester,-1
+SP2 8BJ,Salisbury District Hospital; Odstock Road; Salisbury,Salisbury,14,14,1,1,LNU,0,0,1,1,1,Salisbury,-1
+SR4 7TP,Sunderland Royal Hospital,Sunderland,8,8,1,1,NICU,0,1,1,1,1,Sunderland,
+SS0 0RY,Southend Hospital,Southend,2,2,1,1,LNU,0,0,1,1,1,Southend,-1
+SS16 5NL,Basildon University Hospital,Basildon,2,2,1,1,LNU,0,0,1,1,1,Basildon,-1
+ST16 3SA,Staffordshire General Hospital;Stafford,Stafford,13,13,1,1,NA,0,0,0,1,1,Stafford,-1
+ST4 6QG,Royal Stoke University Hospital; Newcastle Road; Stroke-on-Trent ST4 6QG,Stroke-on-Trent,13,13,1,1,NICU,0,1,1,1,1,Stroke-on-Trent,
+SW10 9NH,Chelsea & Westminster Hospital;London,London - SW,4,4,1,1,SURGERY,1,1,1,1,1,London - Chelsea,
+SW17 0QT,St George's Hospital; Blackshaw Road; London,London - SW,10,10,1,1,NICU,0,1,1,1,1,London - St George,
+SY3 8XQ,Royal Shrewsbury Hospital;Shrewsbury,Shrewsbury,13,13,1,1,LNU,0,0,1,1,1,Shrewsbury,-1
+TA1 5DA,Musgrove Park Hospital,Taunton,11,11,1,1,LNU,0,0,1,1,1,Taunton,-1
+TN2 4QJ,Tunbridge Wells Hospital,Tunbridge Wells,9,9,1,1,LNU,0,0,1,1,1,Tunbridge Wells,-1
+TN24 0LZ,William Harvey Hospital,Ashford,9,9,1,1,NICU,0,1,1,1,1,Ashford,
+TN37 7RD,Conquest Hospital;St Leonards on Sea,Hastings,9,9,1,1,SCU,0,0,0,1,1,Hastings,-1
+TQ2 7AA,Torbay Hospital,Torbay,11,11,1,1,SCU,0,0,0,1,1,Torbay,-1
+TR1 3LQ,Royal Cornwall Hospital; Penventinnie Lane; Truro,Truro,11,11,1,1,LNU,0,0,1,1,1,Truro,-1
+TS19 8PE,University Hospitals of North Tees and Hartlepool,Stockton-on-Tees,8,8,1,1,NICU,0,1,1,1,1,Stockton-on-Tees,
+TS4 3BW,James Cook University Hospital; Marton Road; Middlesbrough,Middlesbrough,8,8,1,1,NICU,0,1,1,1,1,Middlesbrough,
+TW7 6AF,West Middlesex University Hospital;Isleworth,London - W,4,4,1,1,SCU,0,0,0,1,1,London - Isleworth,-1
+UB8 3NN,Hillingdon Hospital;Uxbridge,Uxbridge,4,4,1,1,LNU,0,0,1,1,1,Uxbridge,-1
+W12 0HS,Queen Charlotte's Hospital;London,London - W,4,4,1,1,NICU,0,1,1,1,1,London - Queen C,
+W2 1NY,St Mary's Hospital London;London,London - W,4,4,1,1,LNU,0,0,1,1,1,London - St Mary,-1
+WA5 1QG,Warrington Hospital; Lovely Lane; Warrington,Warrington,5,5,1,1,LNU,0,0,1,1,1,Warrington,-1
+WD18 0HB,Watford General Hospital; vicarage road; Watford,Watford,2,2,1,1,LNU,0,0,1,1,1,Watford,-1
+WF13 4HS,Dewsbury & District Hospital;Dewsbury,Dewsbury,16,16,1,1,SCU,0,0,0,1,1,Dewsbury,-1
+WF8 1PL,Pinderfields General Hospital;Pontefract,Pontefract,16,16,1,1,LNU,0,0,1,1,1,Pontefract,-1
+WN1 2NN,Royal Albert Edward Infirmary;Wigan,Wigan,6,6,1,1,LNU,0,0,1,1,1,Wigan,-1
+WR5 1DD,Worcestershire Royal Hospital; Charles Hastings Way; Worcester,Worcester,12,12,1,1,LNU,0,0,1,1,1,Worcester,-1
+WS2 9PS,Manor Hospital; Moat Road; Walsall,Walsall,13,13,1,1,LNU,0,0,1,1,1,Walsall,-1
+WV10 0QP,New Cross Hospital; Wednesfield Road;  Wolverhampton,Wolverhampton,13,13,1,1,NICU,0,1,1,1,1,Wolverhampton,
+YO12 6QL,Scarborough General Hospital;Scarborough,Scarborough,16,16,1,1,SCU,0,0,0,1,1,Scarborough,-1
+YO31 8HE,York Hospital; Wigginton Road; York,York,16,16,1,1,LNU,0,0,1,1,1,York,-1
